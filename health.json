@@ -1,0 +1,33 @@
+{
+  "status": "OK",
+  "message": "La publication hebdomadaire est valide et récente.",
+  "latest": {
+    "id": "bea-2026-eu",
+    "title": "Alliance européenne pour soutenir les produits bio-basés",
+    "publishedAt": "2026-10-27T07:31:42.361Z",
+    "ageDays": 0
+  },
+  "lastRun": {
+    "status": "OK",
+    "message": "Nouvelle fiche publiée : Alliance européenne pour soutenir les produits bio-basés.",
+    "startedAt": "2026-10-27T07:30:56.800Z",
+    "finishedAt": "2026-10-27T07:31:42.365Z",
+    "card": {
+      "id": "bea-2026-eu",
+      "title": "Alliance européenne pour soutenir les produits bio-basés"
+    },
+    "discoveryFailures": [],
+    "networkRequests": 18,
+    "editorCalls": 1,
+    "editorAttempts": 1,
+    "archiveName": "published/archive/2026-10-27-bea-2026-eu.json",
+    "archiveCount": 1
+  },
+  "controls": {
+    "cadence": "weekly",
+    "maximumMonthlyPublications": 5,
+    "minimumEvidenceSources": 2,
+    "minimumEvidenceDomains": 2,
+    "lastValidCardIsRetained": true
+  }
+}
