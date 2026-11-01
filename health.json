@@ -2,21 +2,26 @@
   "status": "OK",
   "message": "La publication hebdomadaire est valide et récente.",
   "latest": {
-    "id": "resilio-amsterdam",
-    "title": "Toits bleu‑vert intelligents à Amsterdam",
-    "publishedAt": "2026-10-27T07:47:05.434Z",
+    "id": "baia-mare-spire-uia",
+    "title": "Renaturation par phytoremédiation à Baia Mare",
+    "publishedAt": "2026-11-01T14:12:30.769Z",
     "ageDays": 0
   },
   "lastRun": {
     "status": "OK",
-    "message": "Fiche relue publiée : Toits bleu‑vert intelligents à Amsterdam.",
-    "finishedAt": "2026-10-27T07:47:05.437Z",
+    "message": "Nouvelle fiche publiée : Renaturation par phytoremédiation à Baia Mare.",
+    "startedAt": "2026-11-01T14:12:07.421Z",
+    "finishedAt": "2026-11-01T14:12:30.773Z",
     "card": {
-      "id": "resilio-amsterdam",
-      "title": "Toits bleu‑vert intelligents à Amsterdam"
+      "id": "baia-mare-spire-uia",
+      "title": "Renaturation par phytoremédiation à Baia Mare"
     },
-    "archiveName": "published/archive/2026-10-27-resilio-amsterdam.json",
-    "archiveCount": 1
+    "discoveryFailures": [],
+    "networkRequests": 5,
+    "editorCalls": 1,
+    "editorAttempts": 1,
+    "archiveName": "published/archive/2026-11-01-baia-mare-spire-uia.json",
+    "archiveCount": 2
   },
   "controls": {
     "cadence": "weekly",

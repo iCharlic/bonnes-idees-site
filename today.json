@@ -1,50 +1,44 @@
 {
-  "id": "resilio-amsterdam",
+  "id": "baia-mare-spire-uia",
   "theme": "Villes & innovation",
-  "title": "Toits bleu‑vert intelligents à Amsterdam",
-  "summary": "RESILIO a transformé toits de la ville en « bleu‑verts » intelligents pour stocker l’eau, réduire la chaleur urbaine et améliorer la biodiversité : 12 683 m² de toits ont été réalisés sur plusieurs quartiers, dont des logements sociaux.",
-  "place": "Amsterdam",
-  "country": "Pays-Bas",
+  "title": "Renaturation par phytoremédiation à Baia Mare",
+  "summary": "SPIRE a reconverti 7,15 hectares de friches polluées aux métaux lourds à Baia Mare (Roumanie) via des plantations aidant à extraire ou stabiliser les polluants, la création d’une filière biomasse et un hub de soutien aux start‑ups locales.",
+  "place": "Baia Mare",
+  "country": "Romania",
   "latitude": null,
   "longitude": null,
-  "problem": "Amsterdam subit des pluies intenses et des périodes de sécheresse liées au changement climatique. Le diagnostic du projet identifie 96 zones urbaines à forte vulnérabilité aux inondations par fortes pluies. La ville manque d’espace au sol pour des solutions vertes, d’où l’idée d’utiliser des surfaces de toits inexploitées. Les effets ciblés sont la réduction des débordements d’égouts, la limitation des dégâts liés aux pluies intenses, la diminution de l’effet d’îlot de chaleur urbain et une meilleure rétention d’eau en période sèche. Ces constats sont repris par le dossier UIA et présentés comme l’enjeu central que RESILIO veut adresser (inondations, chaleur, sécheresse, biodiversité).",
-  "principle": "La municipalité d’Amsterdam, avec des partenaires publics et privés, a décidé d’installer des « toits bleu‑verts intelligents » : toits végétalisés dotés d’une couche tampon d’eau (blue pour l’eau, green pour les plantes) et d’un système de commande (« smart flow control »). L’objectif opérationnel initial financé par le Fonds européen de développement régional (ERDF) était d’installer 10 000 m² de ces toits, dont au moins 8 000 m² sur des toits de logements sociaux. Le projet a été porté via le programme Urban Innovative Actions (UIA) et un consortium comprenant la ville, Waternet (gestionnaire public de l’eau), des universités, des bailleurs sociaux et des PME techniques.",
-  "mechanism": "Le projet rassemble la Ville d’Amsterdam, des bailleurs sociaux (Stadgenoot, De Key, De Alliantie), Waternet, des universités et des entreprises afin de concevoir, installer et relier des toits en réseau. Les toits sont construits en plusieurs étapes : diagnostic de toits candidats, adaptation structurelle, installation de la couche de stockage sous la végétation, pose du dispositif « smart flow control » et raccordement au Decision Support System (système d’aide à la décision) qui régule les niveaux d’eau en fonction des prévisions météo. Les toits communiquent entre eux pour échanger des données et ajuster à distance la rétention ou la libération d’eau. Le projet prévoit aussi un suivi et une campagne d’engagement des habitants (1 500 résidents ciblés) pour co‑création et acceptation locale.",
-  "human": "Le projet a impliqué des acteurs techniques et les habitants. Côté institutions : la Ville d’Amsterdam a coordonné le consortium avec Waternet, Hogeschool van Amsterdam, Vrije Universiteit, plusieurs bailleurs sociaux et entreprises (MetroPolder Company, Consolidated, Rooftop Revolution). Côté citoyens : RESILIO visait à engager 1 500 résidents de tous niveaux socio‑économiques dans le développement des espaces résidentiels et à favoriser la co‑création locale. Les partenaires ont organisé des activités d’implication et des journaux de projet pour partager progrès et choix de conception, et ont diffusé études et retours d’expérience durant et après la mise en œuvre.",
-  "limitations": "Ce qui a été réalisé : le site du projet indique que 12 683 m² de toits ont été transformés en toits bleu‑verts durant le projet (surface finale communiquée par RESILIO). Ce qui était initialement planifié : l’objectif UIA était 10 000 m², dont au moins 8 000 m² sur logements sociaux, et un budget ERDF de 4 814 248 EUR. Ce qui reste à mesurer ou incertain : l’estimation de performance hydraulique (5600 m³ d’eau gérés sur une année) figure dans la documentation UIA comme valeur attendue, pas comme résultat mesuré ; le dossier prévoit un plan de monitoring pour évaluer impacts sociaux, hydrauliques, énergétiques et fiscaux, mais les résultats chiffrés complets d’impact (p. ex. réduction exacte des débordements d’égouts ou économie d’énergie) ne sont pas fournis comme bilan final dans les sources. Certaines analyses sur la robustesse au stress hydrique et à la sécheresse sont en cours de suivi et discutées dans des articles du projet.",
+  "problem": "Baia Mare hérite d’un passé minier et métallurgique qui a laissé environ 627 hectares de sols contaminés dans l’aire métropolitaine, avec des concentrations de métaux atteignant jusqu’à cinq fois la valeur acceptable. Ces terrains sont déconnectés du tissu urbain, présentent un risque sanitaire et freinent le développement local. Le projet SPIRE ciblait en priorité 7,15 hectares répartis en cinq sites pilotes pour lancer une stratégie de renaturation et de phytoremédiation (usage de plantes pour extraire ou stabiliser les polluants). Le défi combinait la dépollution, la réintégration d’espaces dans la ville, la création d’activités économiques liées à la biomasse et l’implication de la population locale, avec un financement ERDF total annoncé de 2 611 840,4 EUR.",
+  "principle": "L’acteur porteur est la municipalité de Baia Mare, soutenue par un partenariat local (université, associations, entreprises) et financée par le fonds européen ERDF via l’initiative Urban Innovative Actions (UIA). La décision centrale du projet SPIRE, lancée officiellement le 1er septembre 2019, a été de traiter les friches polluées non pas seulement par curage chimique coûteux mais par une stratégie intégrée : 1) appliquer des techniques de phytoremédiation et renaturation sur 7,15 ha pilotes ; 2) créer un Hub de co‑conception en centre‑ville pour encadrer jeunes entrepreneurs et citoyens ; 3) développer une filière circulaire utilisant la biomasse produite pour produire énergie et matériaux de construction expérimentaux. Le projet a aussi prévu des outils numériques (un atlas SIG dynamique et un « Remediation Toolkit ») et une monnaie locale digitale iLEU pour encourager comportements écologiques.",
+  "mechanism": "Le déploiement a suivi un calendrier de livrables et d’actions : 1) création d’un Hub (Casa Schreiber) et livraison du Remediation Toolkit en juin 2020 pour guider les opérations de terrain et la co‑conception ; 2) lancement en novembre 2020 de la monnaie digitale locale iLEU et démarrage des travaux de paysagisme et des actions de phytoremédiation sur les sites pilotes ; 3) mise en place de programmes de mentorat et d’incubation (mai 2021 pour premiers prototypes de matériaux bio‑basés ; septembre 2021 création d’un incubateur pour start‑ups vertes) ; 4) à partir de juillet 2022, finalisation d’un masterplan métropolitain 2050 et livraison du rapport d’évaluation final. Concrètement, la municipalité coordonne les chantiers et le Hub, les équipes techniques appliquent les techniques de phytoremédiation selon le Toolkit et la cartographie SIG, des jeunes entrepreneurs transforment la biomasse en deux filières (production d’énergie pour un bâtiment public et matériaux de construction expérimentaux), et iLEU récompense l’engagement citoyen.",
+  "human": "SPIRE a impliqué explicitement la population et les jeunes : le projet visait 250 jeunes bénéficiaires et a mobilisé environ 3 000 citoyens au total. Le Hub de co‑conception a servi de lieu de formation, mentorat et co‑design pour les habitants et les porteurs de projets. Les « Plantathlons » et activités de terrain (printemps 2021) ont été cités comme moments d’appropriation citoyenne, soutenant dix initiatives écologiques portées par des citoyens. Le projet a aussi prévu des actions éducatives pour changer les pratiques locales et encourager l’entrepreneuriat vert via un incubateur et un programme de mentoring des start‑ups.",
+  "limitations": "Ce qui est mis en œuvre : la co‑conception via le Hub, la livraison du Remediation Toolkit en juin 2020, le lancement d’iLEU en novembre 2020, l’intervention de phytoremédiation sur 7,15 ha pilotes et la structuration d’une filière biomasse (flux vers énergie publique et matériaux). Ce qui relève d’objectifs ou d’évaluations futures : l’upscaling métropolitain vers 2050 (Masterplan 2050) et l’évaluation complète des impacts à long terme sur la qualité des sols et la santé publique. Les sources indiquent des réalisations intermédiaires (prototypes matériels, création de start‑ups) mais ne publient pas dans le dossier fourni des mesures chiffrées d’amélioration des concentrations en métaux dans les sols ni d’évaluation sanitaire finale : ces impacts à long terme restent à mesurer dans le rapport d’évaluation final mentionné.",
   "examples": [
     {
-      "text": "12 683 m² de toitures transformées : le site officiel du projet indique que, à la fin du projet, 12 683 m² de toits ont été convertis en toits bleu‑verts, couvrant plusieurs quartiers et bâtiments (logements sociaux et autres bâtiments municipaux).",
-      "citations": [
-        "S2"
-      ]
-    },
-    {
-      "text": "Objectif initial de 10 000 m² : le dossier UIA présentait une cible de 10 000 m² de toits bleu‑verts à installer pour augmenter la résilience aux fortes pluies et réduire l’effet d’îlot de chaleur.",
+      "text": "7,15 hectares de sites pilotes — SPIRE a ciblé 7,15 ha de terrains pollués pour des opérations de phytoremédiation et renaturation, destinées à servir de démonstrateurs pour une stratégie de remédiation à plus grande échelle.",
       "citations": [
         "S1"
       ]
     },
     {
-      "text": "Au moins 8 000 m² sur logements sociaux : le projet prévoyait explicitement que 8 000 m² des toits installés seraient situés sur des toitures de logements sociaux pour assurer un bénéfice social partagé.",
+      "text": "627 hectares contaminés dans l’aire métropolitaine — le projet part du constat qu’environ 627 ha sont pollués par l’activité minière et métallurgique, avec des concentrations de métaux jusqu’à cinq fois la valeur acceptable.",
       "citations": [
         "S1"
       ]
     },
     {
-      "text": "Budget ERDF de 4 814 248 EUR : le financement total accordé par le Fonds européen de développement régional est indiqué dans le dossier UIA à 4 814 248 EUR pour soutenir conception, installation et suivi.",
+      "text": "Budget ERDF : 2 611 840,4 EUR — montant total du financement européen alloué au projet SPIRE pour couvrir les actions de co‑conception, remédiation, formation et création de filières biomasse.",
       "citations": [
         "S1"
       ]
     },
     {
-      "text": "Performance hydraulique attendue de 5 600 m³/an : le dossier UIA indique qu’à l’échelle des réseaux de toits, 5 600 m³ d’eau pourraient être gérés sur une année sans dommages, valeur présentée comme attente et à vérifier par monitoring.",
+      "text": "Trois start‑ups bio‑basées — SPIRE a prévu l’émergence de trois start‑ups utilisant la biomasse issue des sites renaturés pour produire matériaux innovants destinés au secteur de la construction.",
       "citations": [
         "S1"
       ]
     },
     {
-      "text": "Première inauguration le 25 juin 2020 : la première toiture de recherche RESILIO a été ouverte officiellement le 25 juin 2020, événement relaté dans les communiqués du projet.",
+      "text": "iLEU, monnaie digitale locale — lancée en novembre 2020, cette monnaie numérique locale vise à récompenser les comportements environnementaux, l’implication citoyenne et l’éco‑entrepreneuriat.",
       "citations": [
         "S1"
       ]
@@ -52,77 +46,66 @@
   ],
   "walkthrough": [
     {
-      "title": "Sélection et diagnostic des toits",
-      "text": "Les partenaires identifient les toitures candidates (priorisant logements sociaux) et évaluent la capacité portante et l’adaptabilité. Le diagnostic permet de choisir toits aptes à recevoir une couche de stockage d’eau et une végétation, et de planifier les adaptations structurelles nécessaires avant travaux.",
-      "citations": [
-        "S1",
-        "S2"
-      ]
-    },
-    {
-      "title": "Installation de la structure bleu‑verte",
-      "text": "Les équipes techniques posent la couche tampon d’eau sous la végétation, le substrat pour les plantes et les systèmes de drainage. La construction suit les plans du projet et les standards développés pendant la phase de R&D antérieure au réseau de toits.",
-      "citations": [
-        "S1",
-        "S2"
-      ]
-    },
-    {
-      "title": "Pose du « smart flow control » et connexion",
-      "text": "Chaque toit reçoit un dispositif de régulation (« smart flow control ») qui peut retenir ou libérer de l’eau en anticipant les pluies ou les sécheresses. Les toits sont ensuite connectés à un Decision Support System pour pilotage à distance et échange de données entre toits.",
+      "title": "Préparation et outils",
+      "text": "En juin 2020 le projet a livré un Remediation Toolkit et inauguré le Hub SPIRE (Casa Schreiber). Le Toolkit rassemble méthodes et critères pour sélectionner les plantes et techniques de phytoremédiation, guider les interventions et standardiser la cartographie via l’atlas SIG dynamique. Le Hub accueille ateliers de co‑conception et sessions de formation pour les techniciens, entrepreneurs et citoyens.",
       "citations": [
         "S1"
       ]
     },
     {
-      "title": "Mise en réseau et pilotage dynamique",
-      "text": "Les toits forment un réseau capable d’ajuster les niveaux d’eau selon les prévisions météorologiques et les paramètres de gestion définis. Le pilotage centralisé permet de répartir la rétention d’eau entre sites pour prévenir les dégâts locaux lors d’événements intenses.",
+      "title": "Lancement sur le terrain",
+      "text": "En novembre 2020 SPIRE a lancé iLEU, la monnaie digitale locale, et a commencé le paysage et la plantation sur les cinq sites pilotes (7,15 ha au total). Les équipes suivent le Toolkit et utilisent le SIG dynamique pour planifier où et comment planter selon les niveaux de contamination identifiés.",
       "citations": [
         "S1"
       ]
     },
     {
-      "title": "Suivi, engagement des habitants et transfert de connaissances",
-      "text": "Un plan de monitoring suit aspects hydrauliques, climatiques, énergétiques et sociaux. Les partenaires ont mené des activités de participation (ciblant 1 500 résidents) et publié journaux et études pour capitaliser l’expérience et informer d’autres villes.",
+      "title": "Valorisation de la biomasse",
+      "text": "À partir de 2021 le projet a testé deux filières pour la biomasse produite : 1) production d’énergie destinée à un bâtiment public et 2) transformation en matériaux expérimentaux pour la construction. En mai 2021 sont apparus les premiers prototypes de matériaux bio‑basés, fruits du mentorat au Hub.",
       "citations": [
-        "S1",
-        "S2"
+        "S1"
+      ]
+    },
+    {
+      "title": "Incubation et entrepreneuriat",
+      "text": "En septembre 2021 SPIRE a ouvert un incubateur pour start‑ups vertes. Le Hub a mentorié des jeunes entrepreneurs et facilité la création d’au moins trois start‑ups bio‑basées qui prototypent matériaux et processus industriels en cascade.",
+      "citations": [
+        "S1"
+      ]
+    },
+    {
+      "title": "Bilan et planification métropolitaine",
+      "text": "En juillet 2022 le projet a livré le Masterplan Métropolitain 2050 et un rapport d’évaluation final, destinés à capitaliser l’expérience et proposer un cadre d’extension au‑delà des 7,15 hectares traités.",
+      "citations": [
+        "S1"
       ]
     }
   ],
   "glossary": [
     {
-      "term": "Toit bleu‑vert",
-      "definition": "Toiture combinant végétation (vert) et une couche de stockage d’eau (bleu) sous la surface végétale pour retenir temporairement l’eau de pluie et soutenir la végétation en période sèche.",
-      "citations": [
-        "S1",
-        "S2"
-      ]
-    },
-    {
-      "term": "Smart flow control",
-      "definition": "Dispositif installé sous la toiture qui régule la libération ou la rétention d’eau en fonction des prévisions météorologiques et des consignes de gestion, permettant un comportement adaptatif du toit.",
+      "term": "Phytoremédiation",
+      "definition": "Technique qui utilise des plantes pour extraire, stabiliser ou immobiliser des polluants présents dans le sol, en réduisant les risques ou en facilitant une valorisation ultérieure des biomasses.",
       "citations": [
         "S1"
       ]
     },
     {
-      "term": "Decision Support System",
-      "definition": "Système d’aide à la décision qui collecte données et prévisions pour piloter à distance les niveaux d’eau des toits et coordonner la réponse du réseau de toits.",
+      "term": "Remediation Toolkit",
+      "definition": "Document opérationnel livré en juin 2020 fournissant méthodes, critères et procédures pour planifier et exécuter les interventions de renaturation et de phytoremédiation sur les sites pilotes.",
       "citations": [
         "S1"
       ]
     },
     {
-      "term": "ERDF",
-      "definition": "Fonds européen de développement régional : source de financement européenne qui a subventionné le projet RESILIO à hauteur de 4 814 248 EUR selon le dossier UIA.",
+      "term": "iLEU",
+      "definition": "Monnaie digitale locale lancée en novembre 2020 pour récompenser l’engagement citoyen et encourager l’adoption de solutions fondées sur la nature et l’éco‑entrepreneuriat.",
       "citations": [
         "S1"
       ]
     },
     {
-      "term": "Bailleurs sociaux",
-      "definition": "Organismes propriétaires et gestionnaires de logements sociaux (par exemple Stadgenoot, De Key, De Alliantie) qui ont fourni des toits et ont participé à l’implantation des toits bleu‑verts sur leur parc.",
+      "term": "SIG dynamique (GIS Dynamic Atlas)",
+      "definition": "Système d’information géographique interactif prévu pour cartographier, analyser et visualiser les données des sites pollués et guider les co‑conceptions et interventions sur le terrain.",
       "citations": [
         "S1"
       ]
@@ -130,22 +113,29 @@
   ],
   "history": [
     {
-      "year": "25 juin 2020",
-      "text": "Ouverture de la première toiture de recherche RESILIO. La cérémonie d’inauguration de la première toiture pilote a eu lieu le 25 juin 2020, marquant le début de la phase d’implémentation et d’essai des premières solutions techniques.",
+      "year": "01/09/2019",
+      "text": "Démarrage officiel du projet SPIRE (Smart Post‑Industrial Regenerative Ecosystem) sous l’initiative Urban Innovative Actions, porté par la municipalité de Baia Mare avec un consortium local.",
       "citations": [
         "S1"
       ]
     },
     {
-      "year": "avril 2022",
-      "text": "Clôture officielle du projet RESILIO. Le dossier UIA indique que RESILIO a été complété en avril 2022, date après laquelle le projet a documenté ses livrables et a commencé à diffuser le retour d’expérience.",
+      "year": "06/2020",
+      "text": "Livraison du Remediation Toolkit et inauguration du Hub SPIRE au sein de Casa Schreiber, documents et lieu destinés à piloter les opérations de phytoremédiation et la co‑conception citoyenne.",
       "citations": [
         "S1"
       ]
     },
     {
-      "year": "21 novembre 2023",
-      "text": "Bilan post‑projet et héritage : la plateforme UIA publie en novembre 2023 un article explorant l’héritage laissé par RESILIO, indiquant que les toits développés continuent de prospérer et que la diffusion de connaissances se poursuit.",
+      "year": "11/2020",
+      "text": "Lancement de la monnaie digitale locale iLEU et début des opérations de paysagisme et des premières interventions de phytoremédiation sur les sites pilotes.",
+      "citations": [
+        "S1"
+      ]
+    },
+    {
+      "year": "07/2022",
+      "text": "Publication du Masterplan pour l’aire métropolitaine de Baia Mare 2050 et livraison du rapport d’évaluation final annoncé comme clôture des activités principales du projet.",
       "citations": [
         "S1"
       ]
@@ -160,33 +150,30 @@
       "S2"
     ],
     "mechanism": [
-      "S1",
-      "S2"
+      "S1"
     ],
     "human": [
-      "S1",
-      "S2"
+      "S1"
     ],
     "limitations": [
-      "S1",
-      "S2"
+      "S1"
     ]
   },
   "sources": [
     {
       "id": "S1",
       "label": "Urban Innovative Actions — fiches de villes",
-      "url": "https://uia.urban-initiative.eu/en/uia-cities/amsterdam"
+      "url": "https://uia.urban-initiative.eu/en/uia-cities/baia-mare"
     },
     {
       "id": "S2",
-      "label": "RESILIO project website",
-      "url": "https://resilio.amsterdam/"
+      "label": "Visit the new EUI website!",
+      "url": "https://www.urban-initiative.eu/"
     }
   ],
-  "publishedAt": "2026-10-27T07:47:05.434Z",
-  "publicationMode": "manual-approved",
+  "publishedAt": "2026-11-01T14:12:30.769Z",
+  "publicationMode": "weekly-automatic",
   "generated": true,
   "format": 2,
-  "evidenceFingerprint": "8e06d2cda2e5201666bfcb9297fc8a485cb1fc526daf9ea746b13cd182bb8ba1"
+  "evidenceFingerprint": "eaeb82a0489d8cdf995c9fdfabb968b3d8226623f1f1e3bdfda01a2b62576f22"
 }
