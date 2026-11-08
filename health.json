@@ -1,27 +1,33 @@
 {
-  "status": "OK",
-  "message": "La publication hebdomadaire est valide et récente.",
+  "status": "ATTENTION",
+  "message": "La dernière publication exige une vérification ; aucune fiche non validée n'est mise en ligne.",
   "latest": {
     "id": "baia-mare-spire-uia",
     "title": "Renaturation par phytoremédiation à Baia Mare",
     "publishedAt": "2026-11-01T14:12:30.769Z",
-    "ageDays": 0
+    "ageDays": 7
   },
   "lastRun": {
-    "status": "OK",
-    "message": "Nouvelle fiche publiée : Renaturation par phytoremédiation à Baia Mare.",
-    "startedAt": "2026-11-01T14:12:07.421Z",
-    "finishedAt": "2026-11-01T14:12:30.773Z",
-    "card": {
-      "id": "baia-mare-spire-uia",
-      "title": "Renaturation par phytoremédiation à Baia Mare"
-    },
+    "status": "ATTENTION",
+    "message": "Aucune candidate n'a satisfait le contrat éditorial ; la fiche précédente reste publiée.",
+    "startedAt": "2026-11-08T14:12:22.760Z",
+    "finishedAt": "2026-11-08T14:12:33.574Z",
     "discoveryFailures": [],
-    "networkRequests": 5,
-    "editorCalls": 1,
-    "editorAttempts": 1,
-    "archiveName": "published/archive/2026-11-01-baia-mare-spire-uia.json",
-    "archiveCount": 2
+    "networkRequests": 10,
+    "editorCalls": 0,
+    "editorAttempts": 0,
+    "rejections": [
+      {
+        "candidate": "https://uia.urban-initiative.eu/en/uia-cities/aveiro",
+        "title": "aveiro",
+        "reason": "Dossier de preuves insuffisant : deux sources sur deux domaines sont requises."
+      },
+      {
+        "candidate": "https://uia.urban-initiative.eu/en/uia-cities/aixmarseille-provence-metropole",
+        "title": "aixmarseille provence metropole",
+        "reason": "Dossier de preuves insuffisant : deux sources sur deux domaines sont requises."
+      }
+    ]
   },
   "controls": {
     "cadence": "weekly",
