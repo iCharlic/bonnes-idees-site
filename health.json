@@ -5,27 +5,42 @@
     "id": "baia-mare-spire-uia",
     "title": "Renaturation par phytoremédiation à Baia Mare",
     "publishedAt": "2026-11-01T14:12:30.769Z",
-    "ageDays": 7
+    "ageDays": 14
   },
   "lastRun": {
     "status": "ATTENTION",
     "message": "Aucune candidate n'a satisfait le contrat éditorial ; la fiche précédente reste publiée.",
-    "startedAt": "2026-11-08T14:12:22.760Z",
-    "finishedAt": "2026-11-08T14:12:33.574Z",
+    "startedAt": "2026-11-15T14:38:17.904Z",
+    "finishedAt": "2026-11-15T14:39:08.720Z",
     "discoveryFailures": [],
-    "networkRequests": 10,
-    "editorCalls": 0,
-    "editorAttempts": 0,
+    "networkRequests": 20,
+    "editorCalls": 1,
+    "editorAttempts": 2,
     "rejections": [
       {
-        "candidate": "https://uia.urban-initiative.eu/en/uia-cities/aveiro",
-        "title": "aveiro",
+        "candidate": "https://www.uitp.org/news/smart-ways-to-antwerp-pioneering-sustainable-commuting/",
+        "title": "Antwerp — Smart Ways to Antwerp: PIONEERing Sustainable Commuting",
         "reason": "Dossier de preuves insuffisant : deux sources sur deux domaines sont requises."
       },
       {
-        "candidate": "https://uia.urban-initiative.eu/en/uia-cities/aixmarseille-provence-metropole",
-        "title": "aixmarseille provence metropole",
+        "candidate": "https://climate-adapt.eea.europa.eu/en/metadata/case-studies/paris-oasis-schoolyard-programme-france",
+        "title": "Paris Oasis schoolyards",
+        "reason": "Un même passage est répété dans deux sections : « indique qu a fin 2022 75 cours » (human et example3)."
+      },
+      {
+        "candidate": "https://ok.pontevedra.gal/en/road-safety-zero-deaths/",
+        "title": "Pontevedra car-free city centre",
+        "reason": "Édition refusée : Le dossier fourni est insuffisant pour rédiger une fiche détaillée et vérifiable. Les deux sources jointes sont incomplètes (extraits tronqués) et n’énoncent pas les règles, dates, chiffres, acteurs ou résultats concrets nécessaires : on ne peut décrire qui fait quoi, quand, avec quels seuils ou quels effets mesurés. Je refuse parce que le projet n’est pas documenté ici de manière à produire la fiche exigée (règles opérationnelles, chronologie précise et retours chiffrés manquent)."
+      },
+      {
+        "candidate": "https://uia.urban-initiative.eu/en/uia-cities/antwerp-call2",
+        "title": "antwerp call2",
         "reason": "Dossier de preuves insuffisant : deux sources sur deux domaines sont requises."
+      },
+      {
+        "candidate": "https://uia.urban-initiative.eu/en/uia-cities/aveiro",
+        "title": "aveiro",
+        "reason": "Budget de lecture hebdomadaire atteint avant la preuve primaire."
       }
     ]
   },
